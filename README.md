@@ -1,4 +1,4 @@
-<图片 width="500" height="1111" alt="2025013015155667" src=“https://github.com/user-attachments/assets/31b36dd9-1270-4445-ade3-4ff0be6c1597” />#Shopro商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）-ym7k
+# Shopro商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）-ym7k
 获取源码：ym7k.com/10650/Shopro商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）-ym7k
 
 
