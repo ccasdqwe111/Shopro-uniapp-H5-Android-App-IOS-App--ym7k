@@ -21,7 +21,7 @@
 售后域：自动化与人工介入的平衡
 售后模块支持自动审核（如7天无理由）与人工审核混合模式。退款资金原路返回，退货物流信息自动同步。系统还提供了售后原因分析报表，帮助运营识别高频问题商品。
 
-结语：Shopro商城高级版的交易链路设计，体现了“数据一致优先、用户体验其次、开发效率再次”的工程价值观。它让商城在高并发下依然稳健，在逆向流程中依然可控。<图片 width="500" height="1111" alt="2025013015155262" src=“https://github.com/user-attachments/assets/20afaa1c-414d-457f-8d82-448c5cae13f4” />
+结语：Shopro商城高级版的交易链路设计，体现了“数据一致优先、用户体验其次、开发效率再次”的工程价值观。它让商城在高并发下依然稳健，在逆向流程中依然可控。
 <img width="500" height="1111" alt="2025013015154888" src="https://github.com/user-attachments/assets/0ab018d3-3973-4bed-831f-5fe7cefe38ad" />
 <img width="500" height="1111" alt="2025013015154543" src="https://github.com/user-attachments/assets/bac88684-1ba7-4915-8b0b-97f6ee4f615b" />
 <img width="500" height="1111" alt="2025013015154188" src="https://github.com/user-attachments/assets/2ebf7e7e-c4f5-44ff-b57e-09eec157455f" />
